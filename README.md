@@ -42,7 +42,7 @@ flask run o flask run --port 9000
 ```
   python app.py
 ```
-
+link de video: https://www.canva.com/design/DAGFENpyZ0U/VOk_WApaPBQ-NC0figmxFg/watch?utm_content=DAGFENpyZ0U&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 <hr>
 
